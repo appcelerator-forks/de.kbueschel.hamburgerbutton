@@ -1,0 +1,17 @@
+{
+	"id": "de.kbueschel.hamburgerbutton",
+	"name": "iOS Animated Hamburger Icon Button",
+	"description" : "An Alloy widget displaying an animated hamburger button for off-canvas/sliding side menus.",
+	"author": "Konstantin Büschel",
+	"version": "1.0.0",
+	"copyright":"Copyright (c) 2016 Konstantin Büschel",
+	"license":"Apache License, Version 2.0",
+	"min-alloy-version": "1.3",
+	"min-titanium-version":"3.5.1",
+	"tags":"hamburger, button, side, menu, off-canvas",
+	"platforms":"ios",
+    "modules": {
+      "guy.mcdooooo.tibezier": "*",
+      "guy.mcdooooo.tipop": "*"
+    }
+}

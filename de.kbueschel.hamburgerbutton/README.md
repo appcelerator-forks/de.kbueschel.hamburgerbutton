@@ -1,6 +1,6 @@
-# Alloy *iOS Animated Hamburger Button* Widget [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/) [![Appcelerator Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://appcelerator.com/alloy/)
+# Alloy *iOS Animated Hamburger Button* Widget
 
-An iOS Alloy widget displaying an animated hamburger button for off-canvas/sliding side menus.
+You can find the README at [https://github.com/konstantinbueschel/de.kbueschel.hamburgerbutton](https://github.com/konstantinbueschel/de.kbueschel.hamburgerbutton)
 
 ## License
 
