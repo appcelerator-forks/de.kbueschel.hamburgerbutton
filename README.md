@@ -2,6 +2,10 @@
 
 An iOS Alloy widget displaying an animated hamburger button for off-canvas/sliding side menus.
 
+## Example
+
+![Example](example.gif)
+
 ## License
 
 <pre>
